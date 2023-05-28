@@ -1,0 +1,9 @@
+﻿  BSCS20056 DOS Shell.cpp
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056 DOS Shell\DOS_Shell.h(783,2): warning C4240: nonstandard extension used: access to 'DOS_Shell::File' now defined to be 'public', previously it was defined to be 'private'
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056 DOS Shell\DOS_Shell.h(43): message : see declaration of 'DOS_Shell::File'
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056 DOS Shell\DOS_Shell.h(307,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056 DOS Shell\DOS_Shell.h(319,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056 DOS Shell\DOS_Shell.h(338,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056 DOS Shell\DOS_Shell.h(286,9): warning C4101: 'ch': unreferenced local variable
+E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056 DOS Shell\DOS_Shell.h(494,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  BSCS20056 DOS Shell.vcxproj -> E:\OneDrive - Higher Education Commission\Studies\Semester 3\DSA\BSCS20056 DOS Shell\x64\Debug\BSCS20056 DOS Shell.exe
